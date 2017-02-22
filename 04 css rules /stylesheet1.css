@@ -1,0 +1,98 @@
+/*
+English comments go here!
+
+*/
+
+
+html {
+    background-color: azure;
+    -webkit-font-smoothing: antialiased;
+}
+
+body{
+    background: #fff;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+}
+
+img {
+    background: transparent;
+    border: 3px solid rgb(63, 191, 191);
+    border-radius: 1px;
+    display: block;
+    margin: 1.3em auto;
+}
+
+h1 {
+    font-size: 48px;
+    color: teal;
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+}
+
+.conference{
+    text-align: center
+}
+
+h3{
+    font-size: 24px;
+}
+h4{
+    font-size: 18px;
+    text-align: center;
+}
+    
+p {
+    font-size: 18px;
+    display: block
+}
+
+a {
+    color: #0083e8;
+}
+
+b{
+    font-weight: 600;
+}
+
+ul{
+    font-weight: 600;
+}
+
+ol{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+legend{
+    text-align: center;
+}
+
+label {
+    display: block;
+    text-align: center;
+    line-height: 150%;
+    font-size: .85em;
+}
+
+.button {
+    text-align: center;
+}
+
+td {
+    padding: 2px;
+    font-size: 15px;
+}
+
+figcaption {
+    text-align: center;
+}
