@@ -5,7 +5,7 @@ English comments go here!
 
 
 html {
-    background-color: azure;
+    background-color: salmon;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -23,7 +23,7 @@ body{
 
 img {
     background: transparent;
-    border: 3px solid rgb(63, 191, 191);
+    border: 3px solid rgb(179, 66, 244);
     border-radius: 1px;
     display: block;
     margin: 1.3em auto;
@@ -31,12 +31,13 @@ img {
 
 h1 {
     font-size: 48px;
-    color: teal;
+    color: darkgreen;
     text-align: center;
 }
 
 h2{
     font-size: 30px;
+    color:blue;
 }
 
 .conference{
@@ -45,6 +46,7 @@ h2{
 
 h3{
     font-size: 24px;
+    color: darkorange;
 }
 h4{
     font-size: 18px;
@@ -53,24 +55,28 @@ h4{
     
 p {
     font-size: 18px;
-    display: block
+    display: block;
+    color: darkolivegreen;
 }
 
 a {
-    color: #0083e8;
+    color: #42f474;
 }
 
 b{
     font-weight: 600;
+    color:darkmagenta
 }
 
 ul{
     font-weight: 600;
+    color: cornflowerblue;
 }
 
 ol{
     font-size: 15px;
     font-weight: 500;
+    color:darkorchid;
 }
 
 legend{
