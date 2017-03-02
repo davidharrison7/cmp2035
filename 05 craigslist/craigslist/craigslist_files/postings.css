@@ -474,7 +474,7 @@ section.body {
 a.button2 {
     background: white;
     appearance: button;
-    padding: 6px;
+    padding: 6px 8px 6px 8px;
     border-radius: 30px;
     font-weight: 400;
     text-decoration: none;
@@ -939,7 +939,7 @@ table.four_pane_search {
 
     .user-actions {
         float: right;
-        position: relative;
+        position: static;
         background: white;
         margin: 0 0 20px 20px;
         padding: 15px 10px 15px 25px;
@@ -2012,6 +2012,7 @@ a.showcontact:hover {
 
     .posting div.reply_options ul.pad li a.mailapp:before {
         background-image: none
+        
     }
 
     @page {
